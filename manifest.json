@@ -1,0 +1,16 @@
+{
+   "background": {
+      "page": "ticker.html"
+   },
+   "browser_action": {
+      "default_icon": "nano.png",
+      "default_popup": "ticker.html"
+   },
+   "description": "This extension shows the latest Nano price in your browser.",
+   "icons": {
+      "128": "nano.png"
+   },
+   "manifest_version": 2,
+   "name": "nano Price Ticker",
+   "version": "0.0.1"
+}
